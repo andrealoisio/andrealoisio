@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hello there, my name is André Aloisio Mendes! :smile:
+
+[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-mendes-be8c0/)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrealoisio"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrealoisio&layout=compact"/>
+</div>
 
 <!--
 **andrealoisio/andrealoisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
